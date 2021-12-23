@@ -29,13 +29,13 @@ Descargar y procesar de manera simple usando python las acciones de Colombia med
 
 ## Ejecutando los scripts:
 ### Descargando historico de los activos en un periodo de 2 años (2020 a 2021)
-   ´´shell
+   ```shell
         python get-stoks.py
-   ´´
+   ```
 ### Consolidando los detalles de todos los activos consolidados y pivoteando la información.
-  ´´shell
+  ```shell
       python pivote_tables_data.py
-  ´´
+  ```
 
 ## Lo siguiente:
 1. usuando pandas y numpy realizar el analisis de los diferentes portafolios que podemos realizar y sus rentabilidades esperadas.
@@ -43,8 +43,3 @@ Descargar y procesar de manera simple usando python las acciones de Colombia med
  Bajo ningún motivo consideramos esto como un consejo financiero. primero la información viene de datos históricos y nadie puede
  predecir el futuro
 
-## Lo siguiente:
-1. usuando pandas y numpy realizar el analisis de los diferentes portafolios que podemos realizar y sus rentabilidades esperadas.
-## Warning:
- Bajo ningún motivo consideramos esto como un consejo financiero. primero la información viene de datos históricos y nadie puede
- predecir el futuro.
